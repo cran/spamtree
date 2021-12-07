@@ -1,3 +1,7 @@
+# 6 Dec 21 - `spamtree` version 0.2.2
+
+Extremely minor update, preparing for upcoming changes in Rcpp.
+
 # 8 Jun 21 - `spamtree` version 0.2.1
 
 Updates following comments from CRAN:
